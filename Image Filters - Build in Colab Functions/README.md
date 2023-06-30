@@ -1,12 +1,6 @@
-# Image Filters
+# Image Filters Using OpenCV
 
-## Colab Link: https://shorturl.at/stAGZ
-
-### Filters covered
-
-* Guassian Filter
-* BoxFilter
-* Prewitt / Sobel Detectore
+## Colab Link:https://shorturl.at/sEIKU
 
 ### How to run
 
